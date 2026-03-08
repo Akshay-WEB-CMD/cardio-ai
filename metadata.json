@@ -1,0 +1,5 @@
+{
+  "name": "CardioGuard AI",
+  "description": "Futuristic AI-powered health monitoring dashboard with advanced Cardiac risk assessment and multi-modal Breast Cancer detection (Mammography, Ultrasound, Thermography).",
+  "requestFramePermissions": ["camera"]
+}
